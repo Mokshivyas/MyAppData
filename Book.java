@@ -2,9 +2,9 @@ class Book{
 private int bookId;
 private String name;
 
-public void set bookId{
+public void setbookId{
 	this.setbookId = bookId;
 
 }
-public int bookId() {
+public int getbookIdbookId() {
     return bookId;
